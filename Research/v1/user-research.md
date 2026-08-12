@@ -53,3 +53,39 @@ Do you know what should go into a professional profile?
 Would you use one platform combining these things?
 What would make you actually keep using it?
 What would make you not use it?
+
+
+
+
+
+
+
+Requirement of Students
+- A single place for their profile
+- Education details
+- Skills
+- Projects
+- Certifications
+- Achievements
+- Social/professional links
+- A shareable profile
+
+Common Problems
+
+- Information is spread across different platforms.
+- Students may not know how to present their skills professionally.
+- Maintaining multiple profiles can be inconvenient.
+- Projects and achievements can be difficult to organize.
+
+Expected Benefits
+
+- One organized professional profile
+- Easy sharing with recruiters, teachers, or others
+- Better presentation of student work
+- Easier profile maintenance
+
+## Assumptions
+
+- Students are willing to create a digital profile.
+- Students want to showcase projects and achievements.
+- Students prefer having important information in one place.
