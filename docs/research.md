@@ -1,5 +1,12 @@
 # Research
 
+##Research on problem 
+target for your team-
+We should target the problem statement 
+
+Problem statemnet : Build a platform for a government department to monitor, assign, track and resolve field activities.
+
+
 ## 1. Research Objective
 
 Understand the problem deeply before deciding the solution or feature
