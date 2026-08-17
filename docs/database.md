@@ -6,11 +6,11 @@ The database is the authoritative source of persistent application data.
 
 ## 2. Database Technology
 
--   Database:
--   Hosting:
+-   Database:supabase
+-   Hosting: vercel
 -   ORM/query layer:
--   Authentication:
--   Storage:
+-   Authentication:supabase
+-   Storage:supabase
 
 ## 3. Core Entities
 
